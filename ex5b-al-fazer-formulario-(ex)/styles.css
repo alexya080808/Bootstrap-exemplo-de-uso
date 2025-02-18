@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/t1/20544792-de-fundo-gradiente-ondas-laranja-composicao-de-formas-de-gradiente-fluido-vetor.jpg);
+    height: 100vh ;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.custom-form {
+    background: linear-gradient(145deg, #fda00c, #c73d3d);
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+.form-label {
+    color: #fff
+}
+
+.form-title.text-center {
+     color: #ae1717;
+}
+
+
