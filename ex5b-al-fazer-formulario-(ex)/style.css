@@ -10,19 +10,16 @@ body{
     background: linear-gradient(145deg, #fda00c, #c73d3d);
     padding: 2rem;
     border-radius: 15px;
+
+    width: 440px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
-.form-label {
-    color: #fff
-}
-
-.form-title.text-center {
-     color: #ae1717;
-}
-
-.gleisson{
-    background: #fff;
+.col {
     
+
 }
-
-
